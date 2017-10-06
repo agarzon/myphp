@@ -2,7 +2,6 @@
 Docker image based on **webdevops/php-nginx-dev** but adding a little more :-)
 
 ## Added:
-* Redis Server
 * Ioncube
 * phpunit
 
