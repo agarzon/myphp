@@ -1,9 +1,12 @@
 # MyPHP
 Docker image based on **webdevops/php-nginx-dev** but adding a little more :-)
 
+It runs *PHP 7.1* as FPM with NGINX embedded.
+
 ## Added:
-* Ioncube
+* Ioncube loader
 * phpunit
+* missing modules: memcached, intl, ldap, wddx, xmlrpc
 
 For additional information, visit: [php-nginx-dev](http://dockerfile.readthedocs.io/en/latest/content/DockerImages/dockerfiles/php-nginx-dev.html)
 
