@@ -6,7 +6,6 @@ It runs *PHP 7.1 and 7.2* as FPM with NGINX embedded.
 ## Added:
 * Ioncube loader
 * phpunit
-* missing modules: memcached
 
 For additional information, visit: [php-nginx-dev](http://dockerfile.readthedocs.io/en/latest/content/DockerImages/dockerfiles/php-nginx-dev.html)
 
