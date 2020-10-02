@@ -1,7 +1,7 @@
 # MyPHP
 Docker image based on **webdevops/php-nginx-dev** but adding a little more :-)
 
-It runs *PHP 7.1, 7.2, 7.3* as FPM with NGINX.
+It runs *PHP 7.1, 7.2, 7.3, 7.4* as FPM with NGINX.
 
 ## What do I added?:
 * Ioncube loader
